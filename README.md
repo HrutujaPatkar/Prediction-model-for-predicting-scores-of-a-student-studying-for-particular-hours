@@ -1,4 +1,4 @@
-#Prediction Model - Prediciting scores of a student studying for particular hours
+##Prediction Model - Prediciting scores of a student studying for particular hours
 
 **Skills & Tools** - Python, Machine Learning, Exploratory Data Analysis
 
